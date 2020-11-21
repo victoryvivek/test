@@ -1,3 +1,3 @@
 const test = () => {
-  console.log("master");
+  console.log("changed master");
 };
